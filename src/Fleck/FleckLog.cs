@@ -3,7 +3,7 @@
 namespace Fleck
 {
     public enum LogLevel
-    {
+    
         Debug,
         Info,
         Warn,
